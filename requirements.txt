@@ -1,0 +1,10 @@
+category-encoders==2.6.3
+feature-engine==1.7.0
+featuretools==1.30.0
+matplotlib==3.8.3
+numpy==1.26.4
+pandas==2.2.1
+scikit-learn==1.4.1
+scipy==1.12.0
+seaborn==0.13.2
+tsfresh==0.20.0
