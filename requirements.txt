@@ -1,6 +1,6 @@
 category-encoders==2.6.3
-feature-engine==1.7.0
-featuretools==1.30.0
+feature-engine==1.8.0
+featuretools==1.31.0
 matplotlib==3.8.3
 numpy==1.26.4
 pandas==2.2.1
