@@ -49,13 +49,10 @@ With the following software and hardware list you can run all code files present
 |  		1-11   |   	Python 3.9 or greater Windows, macOS, or Linux						                                            			  | Windows, Mac OS X, and Linux (Any) |
 
 ### Related products <Other books you may enjoy>
-* <Book name #1 from backmatter> [[Packt]](<Book link on Packtpub>) [[Amazon]](https://www.amazon.com/dp/<10P-ISBN>)
+* Mastering Transformers [[Packt]](https://www.packtpub.com/en-in/product/mastering-transformers-9781837633784?srsltid=AfmBOoq-sTm1lTo5AtdPERjFUb13Y4fJUATvjYuME3YRE08Aw-giNCaq) [[Amazon]](https://www.amazon.com/Mastering-Transformers-state-art-multi-modal/dp/1837633789)
 
-* <Book name #2 from backmatter> [[Packt]](<Book link on Packtpub>) [[Amazon]](https://www.amazon.com/dp/<10P-ISBN>)
+* Causal inference and discovery in python [[Packt]](https://www.packtpub.com/en-in/product/causal-inference-and-discovery-in-python-9781804612989?srsltid=AfmBOopYHUuyXt2HhIq6Bp32dg1bDZH8ABHOzutz_BqQZbJf9F4pKjPZ) [[Amazon]](https://www.amazon.in/Causal-Inference-Discovery-Python-learning/dp/1804612987)
 
 ## Get to Know the Author
 **Soledad Galli** is a bestselling data science instructor, author, and open-source Python developer. As the leading instructor at Train in Data, she teaches intermediate and advanced courses in machine learning that have enrolled over 64,000 students worldwide and continue to receive positive reviews. Sole is also the developer and maintainer of the Python open-source library Feature-engine, which provides an extensive array of methods for feature engineering and selection.
 With extensive experience as a data scientist in finance and insurance sectors, Sole has developed and deployed machine learning models for assessing insurance claims, evaluating credit risk, and preventing fraud. She is a frequent speaker at podcasts, meetups, and webinars, sharing her expertise with the broader data science community.
-
-
-
