@@ -1,6 +1,6 @@
 # Python Feature Engineering Cookbook
 
-<a href="https://www.packtpub.com/en-us/product/python-feature-engineering-cookbook-9781835883587"><img src="https://www.packtpub.com/en-us/product/python-feature-engineering-cookbook-9781835883587" alt="<Book Name>" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/en-us/product/python-feature-engineering-cookbook-9781835883587"><img src="https://content.packt.com/_/image/xxlarge/B22396/cover_image_large.jpg" alt="Python Feature Engineering Cookbook" height="256px" align="right"></a>
 
 This is the code repository for [Python Feature Engineering Cookbook](https://www.packtpub.com/en-us/product/python-feature-engineering-cookbook-9781835883587), published by Packt.
 
