@@ -1,8 +1,8 @@
 # Python Feature Engineering Cookbook
 
-<a href="<Packtpub book link>?utm_source=github&utm_medium=repository&utm_campaign=<13-P ISBN>"><img src="https://static.packt-cdn.com/products/<13-P ISBN>/cover/smaller" alt="<Book Name>" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/en-us/product/python-feature-engineering-cookbook-9781835883587"><img src="https://www.packtpub.com/en-us/product/python-feature-engineering-cookbook-9781835883587" alt="<Book Name>" height="256px" align="right"></a>
 
-This is the code repository for [Python Feature Engineering Cookbook](<Packtpub book link>?utm_source=github&utm_medium=repository&utm_campaign=<13-P ISBN>), published by Packt.
+This is the code repository for [Python Feature Engineering Cookbook](https://www.packtpub.com/en-us/product/python-feature-engineering-cookbook-9781835883587), published by Packt.
 
 **A complete guide to crafting powerful features for your machine learning models**
 
