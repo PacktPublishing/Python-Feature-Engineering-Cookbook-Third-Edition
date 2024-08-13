@@ -7,11 +7,7 @@ This is the code repository for [Python Feature Engineering Cookbook](https://ww
 **A complete guide to crafting powerful features for your machine learning models**
 
 ## What is this book about?
-Streamline data preprocessing and feature engineering in your machine learning project with this third edition of the Python Feature Engineering Cookbook to make your data preparation more efficient.
-This guide addresses common challenges, such as imputing missing values and encoding categorical variables using practical solutions and open source Python libraries.
-You’ll learn advanced techniques for transforming numerical variables, discretizing variables, and dealing with outliers. Each chapter offers step-by-step instructions and real-world examples, helping you understand when and how to apply various transformations for well-prepared data.
-The book explores feature extraction from complex data types such as dates, times, and text. You’ll see how to create new features through mathematical operations and decision trees and use advanced tools like Featuretools and tsfresh to extract features from relational data and time series.
-By the end, you’ll be ready to build reproducible feature engineering pipelines that can be easily deployed into production, optimizing data preprocessing workflows and enhancing machine learning model performance.
+Python Feature Engineering Cookbook, Third Edition, walks you through tools and methods to craft powerful features from tabular, transactional, and time-series data for robust machine learning models.
 
 This book covers the following exciting features: 
 * Discover multiple methods to impute missing data effectively
