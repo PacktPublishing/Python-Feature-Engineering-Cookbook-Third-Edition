@@ -18,7 +18,7 @@ This book covers the following exciting features:
 * Extract features from transactional data and time series
 * Learn methods to extract meaningful features from text data
 
-If you feel this book is for you, get your [copy]([https://www.amazon.com/dp/1835883583](https://www.amazon.com/Python-Feature-Engineering-Cookbook-complete/dp/B0DBQDG7SG/ref=sr_1_1?crid=SFOV7IIWIKB2&dib=eyJ2IjoiMSJ9.BbOxXLgwxZR12U1cmMQL4VlZ-s3cED5k6C6FfqsL1CJRFM0-iLCBl4NTe87JmRDRxfi0H-xJMIME-Znypzw2_qRIOVIX0GLTHxSlus21hyvRNvFebmM6_J38ETWNmHsMJGny7R2kufSSWGZELRA5GjKOizqdmUwuLrHM_N4Ar7bRxC1gRH0yYQcVrWVMYpUwCOXZd6tb7KT99YQynRe7PRUO62VnBnBikygPsAnMuiI.-6PWjpxhzgn7WV8O0dQf8-nIuX0vpBYY46EXIChr6oE&dib_tag=se&keywords=python+Feature+Engineering+Cookbook&qid=1724220769&sprefix=python+feature+engineering+cookbook%2Caps%2C536&sr=8-1) today!
+If you feel this book is for you, get your [copy]([https://www.amazon.com/dp/1835883583](https://www.amazon.com/Python-Feature-Engineering-Cookbook-complete/dp/B0DBQDG7SG/ref=sr_1_1?crid=SFOV7IIWIKB2&dib=eyJ2IjoiMSJ9.BbOxXLgwxZR12U1cmMQL4VlZ-s3cED5k6C6FfqsL1CJRFM0-iLCBl4NTe87JmRDRxfi0H-xJMIME-Znypzw2_qRIOVIX0GLTHxSlus21hyvRNvFebmM6_J38ETWNmHsMJGny7R2kufSSWGZELRA5GjKOizqdmUwuLrHM_N4Ar7bRxC1gRH0yYQcVrWVMYpUwCOXZd6tb7KT99YQynRe7PRUO62VnBnBikygPsAnMuiI.-6PWjpxhzgn7WV8O0dQf8-nIuX0vpBYY46EXIChr6oE&dib_tag=se&keywords=python+Feature+Engineering+Cookbook&qid=1724220769&sprefix=python+feature+engineering+cookbook%2Caps%2C536&sr=8-1]) today!
 
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" alt="https://www.packtpub.com/" border="5" /></a>
 
